@@ -115,6 +115,6 @@ int main(void) {
     }
 
     printf("\nRank of the given matrix is: %d\n\n\n", rank);__has_attribute
-    printf("\nNULLITY of the given matrix is: %d\n\n\n", 4-rank);
+    printf("\nNULLITY of the given matrix is: %d\n\n\n", 3-rank);
     
 } 
