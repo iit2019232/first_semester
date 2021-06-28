@@ -1,6 +1,6 @@
-# first_semester
+# SEM1
 ---
-## This is where I store all my first semester projects
+## SEM1 Projects
 
 ***
 
